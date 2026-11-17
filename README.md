@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE:17 - 11 - 2026
+## NAME: KINTALI VENKATA SAI KRISHNA KAILASH
+## ROLL NUMBER: RA2511030010341
+## DEPARTMENT: NWC
 
 ---
 
@@ -203,25 +203,29 @@ HLT
 
 Upload the addition program execution screenshot here.
 
-![Addition Output](img/addition.png)
+<img width="325" height="357" alt="image" src="https://github.com/user-attachments/assets/e0f7330a-9990-43c1-b8c4-498bd48f5a22" />
+
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
 Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
+<img width="333" height="350" alt="image" src="https://github.com/user-attachments/assets/5650caa4-bacd-4424-aed1-33b617389546" />
+
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
 Upload the multiplication program execution screenshot here.
 
-![Multiplication Output](img/multiplication.png)
+<img width="333" height="355" alt="image" src="https://github.com/user-attachments/assets/38d13e36-39d2-405f-aa4d-6976b6354c49" />
+
 
 ### FIGURE-04: DIVISION OUTPUT
 
 Upload the division program execution screenshot here.
 
-![Division Output](img/division.png)
+<img width="326" height="351" alt="image" src="https://github.com/user-attachments/assets/e5145ada-994f-455b-b0f4-b4166b1aca57" />
+
 
 ## RESULT:
 
