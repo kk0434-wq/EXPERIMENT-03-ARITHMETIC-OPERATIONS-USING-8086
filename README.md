@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE:17 - 11 - 2026
+## NAME: KINTALI VENAKTA SAI KRISHNA KAILASH 
+## ROLL NUMBER: RA2511030010341
+## DEPARTMENT: NWC
 
 ---
 
@@ -95,13 +95,13 @@ HLT
 2. Load the second number 03H into BL.
 3. Perform addition using the ADD instruction.
 4. The result is stored in AL.
-
 ### EXPECTED OUTPUT:
 
 | Register | Value |
 |---|---|
 | AL | 08H |
 | BL | 03H |
+
 
 **Result:** 05H + 03H = 08H.
 
@@ -203,25 +203,29 @@ HLT
 
 Upload the addition program execution screenshot here.
 
-![Addition Output](img/addition.png)
+<img width="325" height="357" alt="image" src="https://github.com/user-attachments/assets/adbfdc71-1670-465c-8701-cf9a45adfb30" />
+
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
 Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
+<img width="333" height="350" alt="image" src="https://github.com/user-attachments/assets/4dd30b3a-1af4-43bd-a0d9-2668ca7ba952" />
+
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
 Upload the multiplication program execution screenshot here.
 
-![Multiplication Output](img/multiplication.png)
+<img width="333" height="355" alt="image" src="https://github.com/user-attachments/assets/acd6deae-3c3a-4cba-9f4f-cc662c55020c" />
+
 
 ### FIGURE-04: DIVISION OUTPUT
 
 Upload the division program execution screenshot here.
 
-![Division Output](img/division.png)
+<img width="326" height="351" alt="image" src="https://github.com/user-attachments/assets/043d3c19-5462-4e6e-83eb-6363ac007bdc" />
+
 
 ## RESULT:
 
